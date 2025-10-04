@@ -8,5 +8,5 @@ please do not delete this file.
 
 
 Yes I agree that file should not be deleted as empty repositories cannot be even forked. Then what's the use?
-Demoing a commit wit shortened version of `git push`
+Here is an attempt for demoing a commit wit shortened version of `git push`
 We have started updating some code. A new feature is being built in parallel.
